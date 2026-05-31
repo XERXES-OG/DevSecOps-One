@@ -2,8 +2,6 @@
 
 CI/CD planning for Docker image scanning using trivy : 
 
-C:\Users\Ashutosh Srivastava\OneDrive\Documents\DevSecOps\ReactProject
-
 ## Objective
 
 A basic DevSecOps pipeline:
