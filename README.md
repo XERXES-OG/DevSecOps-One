@@ -1,3 +1,33 @@
+# Project One
+
+CI/CD planning for Docker image scanning using trivy : 
+
+C:\Users\Ashutosh Srivastava\OneDrive\Documents\DevSecOps\ReactProject
+
+## Objective
+
+A basic DevSecOps pipeline:
+
+GitHub Repo
+
+↓
+
+Python Script
+
+↓
+
+Docker Build
+
+↓
+
+Trivy Scan
+
+↓
+
+JSON Report
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
